@@ -67,7 +67,8 @@
 	    <param>arithmetic.*</param>
 	  </targetClasses>
 	  <targetTests>
-	    <param>arithmetic.*Test</param>
+	    <!-- <param>arithmetic.*Test</param> -->
+	    <param>arithmetic.NatPropertiesTest</param>
 	  </targetTests>
 	</configuration>
       </plugin>

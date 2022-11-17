@@ -62,13 +62,13 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase classname="arithmetic.NatPropertiesTest" name="subtractNumber" time="0.058"/>
+  <testcase classname="arithmetic.NatPropertiesTest" name="subtractNumber" time="0.06"/>
   <testcase classname="arithmetic.NatPropertiesTest" name="subtractNumber2" time="0.008"/>
   <testcase classname="arithmetic.NatPropertiesTest" name="addZero" time="0.006"/>
   <testcase classname="arithmetic.NatPropertiesTest" name="addNumber" time="0.006"/>
   <testcase classname="arithmetic.NatPropertiesTest" name="multiplyZero" time="0.004"/>
   <testcase classname="arithmetic.NatPropertiesTest" name="numberIsZero" time="0.005"/>
-  <testcase classname="arithmetic.NatPropertiesTest" name="numberToString" time="0.005"/>
+  <testcase classname="arithmetic.NatPropertiesTest" name="numberToString" time="0.003"/>
   <testcase classname="arithmetic.NatPropertiesTest" name="numberEqualsSelf" time="0.004"/>
   <testcase classname="arithmetic.NatPropertiesTest" name="lessThan" time="0.004"/>
 </testsuite>
